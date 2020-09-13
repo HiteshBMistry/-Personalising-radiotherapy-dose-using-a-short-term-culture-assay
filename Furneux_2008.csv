@@ -1,0 +1,71 @@
+Patient,Age,Gender,Tumour,Plateaux,CellCycle,Time,Death,RT
+A1,86,M,Glioblastoma,38,9,105,1,Yes
+A2,74,M,Metastatic Melanoma,75,30.3,559,1,Yes
+B1,54,F,Glioblastoma,41,9.8,271,1,No
+B2,14,F,Glioblastoma,19,5.2,282,1,Yes
+B3,68,F,Glioblastoma,39,9.2,222,1,Yes
+B4,67,F,Glioblastoma,42,10,267,1,No
+B5,57,M,"Astrocytoma, anaplastic",28,6.8,101,1,
+B6,52,M,Glioblastoma,89,40,489,1,Yes
+C1,73,M,Glioblastoma,78,35,399,1,Yes
+D1,32,M,Medulloblastoma,55,14.6,343,1,Yes
+D2,54,M,Glioblastoma,55,14.6,368,1,Yes
+D3,7,F,"Astrocytoma, pilocytic",55,14.6,289,1,No
+D4,69,M,Glioblastoma,46,11.2,104,1,Yes
+E1,36,M,"Astrocytoma, anaplastic",66,20.9,3168,1,Yes
+E2,49,M,"Oligodendroglioma, anaplastic",76,31.7,868,1,Yes
+F1,2,M,Glioblastoma,37,8.8,78,1,No
+F2,72,M,Glioblastoma,26,6.5,197,1,Yes
+F3,74,F,Glioblastoma,38,9,491,1,
+F3,68,M,Metastatic Melanoma,79,36.9,378,1,No
+G1,43,M,"Astrocytoma, anaplastic",64,19.5,316,1,Yes
+G2,13,M,Glioblastoma,59,16.5,476,1,Yes
+G3,35,M,"Glioblastoma, recurrent",33,7.9,462,1,
+G2,45,M,Glioblastoma,40,9.5,933,1,Yes
+H1,64,M,Glioblastoma,68,22.6,230,1,Yes
+H2,80,F,Glioblastoma,85,40,71,1,No
+H3,73,F,Glioblastoma,36,8.5,38,1,No
+H4,74,M,"Astrocytoma, anaplastic",78,35,22,1,
+H5,38,F,Medulloblastoma,92,40,146,1,No
+H6,40,F,Oligodendroglioma,33,7.9,166,1,
+H5,71,M,Glioblastoma,52,13.3,275,1,Yes
+J1,44,M,Metastatic Melanoma,32,7.6,2,1,No
+J2,32,M,Astrocytoma,80,40,2023,1,Yes
+J3,58,F,Glioblastoma,50,12.6,380,1,No
+J4,10,F,Medulloblastoma,16,4.7,2195,1,
+K1,76,F,Glioblastoma,56,15,21,1,No
+K2,49,M,Metastatic Melanoma,38,9,251,1,Yes
+K3,47,F,Glioblastoma,33,7.9,156,1,No
+K4,66,M,Glioblastoma,27,6.6,101,1,No
+L1,57,M,Glioblastoma,27,6.6,218,1,No
+L2,69,F,Glioblastoma,16,4.7,46,1,No
+M1,49,M,Glioblastoma,7.3,3.3,111,1,Yes
+M2,43,M,Metastatic Melanoma,8.7,3.6,91,1,
+M3,36,F,Medulloblastoma,6.9,3.3,936,1,Yes
+M4,57,M,Metastatic Melanoma,11,3.9,18,1,No
+M5,75,M,"Astrocytoma, anaplastic",66,20.9,331,1,Yes
+M6,28,M,"Astrocytoma, anaplastic",54,14.1,219,1,No
+N1,10,F,Medulloblastoma,63,18.8,455,1,Yes
+N2,42,M,"Astrocytoma, anaplastic",49,12.2,1301,1,Yes
+N3,50,M,Glioblastoma,100,40,326,1,Yes
+O1,57,F,Glioblastoma,49,12.2,416,1,Yes
+P1,77,F,Glioblastoma,42,10,80,1,No
+P2,55,M,Glioblastoma,48,11.9,239,1,Yes
+P3,63,M,Glioblastoma,40,9.5,65,1,No
+R1,65,F,Metastatic Melanoma,22,5.7,112,1,Yes
+R2,89,F,Glioblastoma,23,5.9,71,1,No
+R3,73,M,Glioblastoma,17,4.9,71,1,No
+R4,32,F,Glioblastoma,64,19.5,986,1,Yes
+S1,31,F,"Oligodendroglioma, anaplastic",55,14.6,2354,1,Yes
+S2,65,F,Glioblastoma,41,9.8,260,1,Yes
+S3,40,M,Metastatic Melanoma,1.2,2,28,1,No
+S4,53,M,Glioblastoma,3.3,2.6,276,1,Yes
+S5,63,F,Glioblastoma,37,8.8,293,1,
+T1,53,M,Oligoastrocytoma,58,16,6464,1,No
+T2,48,F,Glioblastoma,56,15,144,1,Yes
+U1,40,F,Glioblastoma,75,30.3,694,1,Yes
+V1,66,F,Glioblastoma,42,10,549,1,Yes
+V2,32,F,Glioblastoma,25,6.3,230,1,Yes
+W2,10,M,Medulloblastoma,11,3.9,69,1,Yes
+W3,63,M,Glioblastoma,71,25.4,230,1,
+Y1,69,M,Glioblastoma,86,40,47,1,No
